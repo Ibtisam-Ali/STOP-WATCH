@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+.main{
+    text-align: center;
+    margin-top: 200px;
+}
+.main2{
+    color: blueviolet;
+}
+.main3{
+    color: cadetblue;
+    margin: 20px;
+    font-size: larger;
+}
+button{
+    padding:7px;
+    border-radius: 5px;
+    color: red;
+    background-color: aqua;
+}
