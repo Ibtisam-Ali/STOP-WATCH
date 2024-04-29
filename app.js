@@ -53,7 +53,8 @@ function reset() {
         hour.innerHTML = 0;
 }
 
-
+const m = 20;
+console.log(m);
 
 
 
